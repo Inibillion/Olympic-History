@@ -82,4 +82,4 @@ EDA was performed to identify historical trends and medal-winning patterns.
 
 ---
 
-💡 *"Turning raw data into meaningful insights that drive decision-making!"* 🚀 
+💡 *"Analyzing Olympic history through the power of data!"* 🚀 
