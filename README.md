@@ -17,11 +17,11 @@ The goal is to analyze Olympic trends and provide **data-driven insights** into 
 ---
 
 ## 🔍 Key Insights 
-✅ **The USA has won the highest number of Olympic medals.**
-✅ **Athlete participation has tripled since the early 1900s.**
-✅ **Michael Phelps holds the record for the most gold medals.**
-✅ **Athletics and Swimming account for the highest number of medals awarded.**
-✅ **Host countries experience a 20% increase in medal wins.**  
+✅ **The USA has won the highest number of Olympic medals.** 
+✅ **Athlete participation has tripled since the early 1900s.** 
+✅ **Michael Phelps holds the record for the most gold medals.** 
+✅ **Athletics and Swimming account for the highest number of medals awarded.** 
+✅ **Host countries experience a 20% increase in medal wins.**   
 
 ---
 
