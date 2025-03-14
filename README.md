@@ -63,7 +63,7 @@ EDA was performed to identify historical trends and medal-winning patterns.
 
 📊 **SQL Queries Screenshot:**  
 ![SQL Queries](https://github.com/Inibillion/Olympic-History/blob/main/Olympic%20SQL%20Project%20%20P1.png)  
-![SQL Queries](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/maji%20sql%20query%202.png) 
+![SQL Queries](https://github.com/Inibillion/Olympic-History/blob/main/Olympic%20SQL%20Project%20P2.png) 
 ![SQL Queries](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/maji%20sql%20query%202.png) 
 
 ---
