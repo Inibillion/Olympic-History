@@ -5,7 +5,7 @@ This project explores **historical Olympic data** to uncover key trends in medal
 The goal is to analyze Olympic trends and provide **data-driven insights** into athlete success and national performance.  
 
 ### 📸 **Olympic Events History**  
-![Power BI Dashboard](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/Maji_Ndogo.PNG)
+![Power BI Dashboard](https://github.com/Inibillion/Olympic-History/blob/main/Olympic%20canva.png)
 
 ---
 
