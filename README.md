@@ -54,7 +54,7 @@ EDA was performed to identify historical trends and medal-winning patterns.
 - **There is a direct correlation between GDP and Olympic success.**  
 
 📊 **Visualization Sample:**  
-![Data Distribution](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/Dashboard%203.jpg)  
+![Data Distribution](https://github.com/Inibillion/Olympic-History/blob/main/Olympic%20pix%202.png)  
 
 ---
 
