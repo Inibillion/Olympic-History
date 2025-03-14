@@ -41,7 +41,7 @@ The goal is to analyze Olympic trends and provide **data-driven insights** into 
 🔗 **Live Dashboard:** [View Here](https://yourpowerbidashboard.com)  
 
 ### 📸 **Dashboard Screenshot**  
-![Power BI Dashboard](https://github.com/Inibillion/Maji-Ndogo-Water-project/blob/main/Maji%20Ndogo%20first.png)  
+![Power BI Dashboard](https://github.com/Inibillion/Olympic-History/blob/main/Olympic%20pix%201.png)  
 
 ---
 
